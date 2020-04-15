@@ -23,3 +23,16 @@ h1.uppercase{
 	margin-right: auto;
 	width: 250px;
 }
+
+#green {
+	background-color: green;
+}
+#lightsalmon{
+	background-color: lightsalmon;
+}
+#mediumpurple{
+	background-color: mediumpurple;
+}
+#yellowgreen{
+	background-color: yellowgreen;
+}
